@@ -1,4 +1,4 @@
-baseURL = 'https://maverick.canhtran.med'
+baseURL = 'https://vlsichallenge.github.io/'
 languageCode = 'en-us'
 title = 'VLSI Challenge'
 paginate = 3
